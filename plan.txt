@@ -1,0 +1,3 @@
+TAKE user input i.e rock, paper or scissors
+SELECT randomnly from rock, paper or scissors
+COMPARE answers and decides who wins
