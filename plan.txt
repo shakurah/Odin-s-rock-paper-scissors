@@ -1,3 +1,6 @@
 TAKE user input i.e rock, paper or scissors
 SELECT randomnly from rock, paper or scissors
 COMPARE answers and decides who wins
+
+playRound 
+WHILE games played < 5 continue
